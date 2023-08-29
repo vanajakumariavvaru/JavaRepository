@@ -1,3 +1,5 @@
 Good Evening!!
 I am here to learn about Git push and pull java code!!
 conflict is going to happen, lets see how it works without pull.
+This is local repository without knowing edited in remote. Edited in local
+
